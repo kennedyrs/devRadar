@@ -1,4 +1,3 @@
-const axios = require('axios')
 const Dev = require('../models/Dev')
 const parseStringAsArray = require('../utils/parseStringAsArray')
 
@@ -8,7 +7,7 @@ module.exports = {
     const { latitude, longitude, techs } = req.query
 
     const techsArray = parseStringAsArray(techs)
-
+    // console.log(latitude)
     const devs = await Dev.find({
       techs: {
         $in: techsArray,
@@ -17,13 +16,14 @@ module.exports = {
         $near: {
           $geometry: {
             type: 'Point',
-            coordinates: [latitude, longitude]
+            coordinates: [longitude, latitude]
           },
           $maxDistance: 10000
         }
       }
     })
 
+    // console.log(devs)
     return res.json(devs)
 
   }
