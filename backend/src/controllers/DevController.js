@@ -36,7 +36,7 @@ module.exports = {
       location
     })
 
-    // Filtro das coneções
+    // Filtro das conexões
     const sendSocketMessageTo = findConnections(
       { latitude, longitude },
       techsArray,
