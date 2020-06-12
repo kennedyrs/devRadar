@@ -1,8 +1,8 @@
 import socketio from "socket.io-client";
 
-const socket = socketio('http://192.168.100.5:3333', {
+const socket = socketio("https://kennedyrs-devradar.herokuapp.com", {
   autoConnect: false,
-})
+});
 
 function subscribeToNewDevs(subcribeFunction){
   socket.on('new-dev', subcribeFunction)

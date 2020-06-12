@@ -34,12 +34,10 @@ Você pode testar essa aplicação nos endereços abaixo:
 
 ### Versão Web
 <p align="center">
-  <img alt="Frontend" src=".github/web0.jpg" width="45%" height="250" />
-  <img alt="Frontend" src=".github/web1.jpg" width="45%" height="250" />
+  <img alt="Frontend" src=".github/devradar-macro.png" width="60%" height="300" />
 </p>
 <p align="center">
-  <img alt="Frontend" src=".github/web2.jpg" width="45%" height="250" />
-  <img alt="Frontend" src=".github/web3.jpg" width="45%" height="250" />
+  <img alt="Frontend" src=".github/devradar-01.jpg" width="80%" height="400" />
 </p>
 
 
