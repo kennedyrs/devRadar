@@ -29,7 +29,7 @@ Você pode testar essa aplicação nos endereços abaixo:
  - Aplicativo na Play Store: [Baixar](https://play.google.com/store/apps/details?id=tk.kennedyrs.devradar&hl=pt_BR)
 
 <p>A Semana Omnistack é um evento online e gratuito produzido pela empresa Rocketseat, com o objetivo de entregar uma imersão do aluno na stack Javascript.</p>
-<p>Neste evento o projeto foi o DevRadar, uma aplicação web e mobile que ajuda clientes a encontrarem desenvolvedores proximos (em um raio de 10km) por meio da localidade, além disso, a aplicaçao irá filtrar os desenvolvedores também pelas tecnologias desejadas.</p>
+<p>Neste evento o projeto foi o DevRadar, uma aplicação web e mobile que ajuda clientes a encontrarem desenvolvedores próximos (em um raio de 10km) por meio da localidade, além disso, a aplicação irá filtrar os desenvolvedores também pelas tecnologias desejadas.</p>
 
 ## Layout 📱
 
