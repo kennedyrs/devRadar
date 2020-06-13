@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#project-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-%EF%B8%8F">Tecnologias</a>
 </p>
@@ -30,6 +30,7 @@ Você pode testar essa aplicação nos endereços abaixo:
 
 <p>A Semana Omnistack é um evento online e gratuito produzido pela empresa Rocketseat, com o objetivo de entregar uma imersão do aluno na stack Javascript.</p>
 <p>Neste evento o projeto foi o DevRadar, uma aplicação web e mobile que ajuda clientes a encontrarem desenvolvedores proximos (em um raio de 10km) por meio da localidade, além disso, a aplicaçao irá filtrar os desenvolvedores também pelas tecnologias desejadas.</p>
+
 ## Layout 📱
 
 ### Versão Web
